@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--### Hi there 😉
+### Hi there 😉
 
 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Chandan Chaursiya </h1>
@@ -34,5 +32,3 @@
 
 
 ⭐️ From [chandan9080](https://github.com/chandan9080)
-
--->
