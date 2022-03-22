@@ -1,7 +1,7 @@
 ### Hi there 😉
 
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Chandan Chaursiya </h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Aman Chandel </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan9080" alt="chandan9080" /> </p>
 <br />
 <a href="https://twitter.com/chandan3100">
