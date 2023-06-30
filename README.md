@@ -25,10 +25,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Aman Chandel from India.
-- 🔭 I’m currently pursuing my Bachelor of Technology in Information Technology Engineering(B.Tech. IT) from IIIT UNA.
-- 🌱 I’m currently making projects with React js .
-- 👯 I’m looking forward for an Internship Opportunities in Web-development,Software Development.
-- 💬 Ask me about Web,DSA.
+- 🔭 I have completed my Bachelor of Technology in Information Technology Engineering(B.Tech. IT) from IIIT UNA.
+- 🌱 I’m currently making projects with React js.
+- 💬 Ask me about the Web.
 
 
 ⭐️ From [aman1021](https://github.com/aman1021)
